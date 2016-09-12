@@ -1,0 +1,44 @@
+- name: Concrete Typography
+  image: concrete.jpg
+  idea: subversiveness, critique
+  description: 1
+
+- name: Paper
+  image: paper.jpg
+  idea: push against the medium/material
+  description: 1
+
+- name: Repaired jeans
+  image: jeans.jpg
+  idea: repair > replace
+  description: 1
+
+- name: Glasses
+  image: glasses.jpg
+  idea: default is good
+  description: 1
+
+- name: NValt, markdown, iA writer
+  image: software.jpg
+  idea: openess, flexible, extendable, sustainable
+  description: 1
+
+- name: pocket, pinboard
+  image: pocket.jpg
+  idea: collecting information and reading
+  description: 1
+
+- name: Handplane, arch tools
+  image: handplane.jpg
+  idea: mining the past
+  description: 1
+
+- name: +
+  image: e.jpg
+  idea: commercial vs research
+  description: 1
+
+- name: Books
+  image: books.jpg
+  idea: books
+  description: 1

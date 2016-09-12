@@ -2,6 +2,10 @@
 layout: default
 ---
 
-<div class="home">
+<div>
+
+  {% for item in site.data.items %}
+    <div>{{ item.name }}</div>
+  {% endfor %}
 
 </div>
