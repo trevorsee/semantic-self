@@ -6,9 +6,8 @@
 @import "utilities/mixins";
 
 /* Third-party */
-/* @import "vendor/normalize";
-@import "vendor/syntax-highlighting";
-*/
+@import "tachyons/src/tachyons.css";
+
 
 /* Base */
 @import "base/reset";
