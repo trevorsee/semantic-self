@@ -1,0 +1,52 @@
+
+/* positioning */
+.z--1 { z-index: -1; }
+.w-30 { width: 30%; }
+
+.frame {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.rotate1 {
+  transform: rotate(-70deg);
+}
+
+.top--10vh { top: -10vh; }
+.top--20vh { top: -20vh; }
+.top--30vh { top: -30vh; }
+.top--40vh { top: -40vh; }
+.top--50vh { top: -50vh; }
+.top--60vh { top: -60vh; }
+.top--70vh { top: -70vh; }
+.top--80vh { top: -80vh; }
+.top--90vh { top: -90vh; }
+.top-10vh { top: 10vh; }
+.top-20vh { top: 20vh; }
+.top-30vh { top: 30vh; }
+.top-40vh { top: 40vh; }
+.top-50vh { top: 50vh; }
+.top-60vh { top: 60vh; }
+.top-70vh { top: 70vh; }
+.top-80vh { top: 80vh; }
+.top-90vh { top: 90vh; }
+
+.left--10vw { left: -10vw; }
+.left--20vw { left: -20vw; }
+.left--30vw { left: -30vw; }
+.left--40vw { left: -40vw; }
+.left--50vw { left: -50vw; }
+.left--60vw { left: -60vw; }
+.left--70vw { left: -70vw; }
+.left--80vw { left: -80vw; }
+.left--90vw { left: -90vw; }
+.left-10vw { left: 10vw; }
+.left-20vw { left: 20vw; }
+.left-30vw { left: 30vw; }
+.left-40vw { left: 40vw; }
+.left-50vw { left: 50vw; }
+.left-60vw { left: 60vw; }
+.left-70vw { left: 70vw; }
+.left-80vw { left: 80vw; }
+.left-90vw { left: 90vw; }
