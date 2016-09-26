@@ -3,7 +3,7 @@
   "version": "0.0.3",
   "description": "The build process for gulp-jekyll",
   "author": "Michael Xander",
-  "repository": "michaelx/gulp-jekyll",
+  "repository": "trevorsee/semantic-self",
   "browser": {
     "jquery": "./app/_bower_components/jquery/dist/jquery.js"
   },
